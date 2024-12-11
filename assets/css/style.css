@@ -1,6 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=Gruppo&display=swap');
 
+/*CSS variables*/
+:root {
+--primary-font: "Gilda display", sans-serif;
+--secondary-font:"Gruppo",  sans-serif;
+}
 
+/* Global styles */
 
+body {
+    font-family: var(--primary-font);
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--secondary-font);
+}
+
+#logo {
+    font-family: var(--secondary-font);
+}
 
 
 
