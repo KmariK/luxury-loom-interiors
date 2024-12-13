@@ -22,7 +22,28 @@ h3 {
     font-family: var(--secondary-font);
 }
 
+/*Subscription form*/
+#sign-up-form {
+    background-color: lightgray;
+}
 
+#newsletter {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#sign-up {
+    padding: 10px;
+    margin: 10px;
+}
+
+.sign-up-button {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
 
 
 
