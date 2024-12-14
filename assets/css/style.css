@@ -66,3 +66,8 @@ list-style-type: none;
 #social-medias i {
     color: black;
 }
+
+/*Contact us*/
+#contact-us-page {
+    text-align: center;
+}
