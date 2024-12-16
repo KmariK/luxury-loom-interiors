@@ -67,6 +67,12 @@ list-style-type: none;
     color: black;
 }
 
+/*About us page*/
+#about-us-page {
+    text-align: center;
+}
+
+
 /*Contact us*/
 #contact-us-page {
     text-align: center;
