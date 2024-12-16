@@ -12,6 +12,10 @@ body {
     font-family: var(--primary-font);
 }
 
+#logo {
+    font-family: var(--secondary-font);
+}
+
 h1,
 h2,
 h3 {
@@ -73,6 +77,20 @@ h4 {
 h4 {
 text-align: center;
 }
+
+#contact-us-form {
+  /*this is a W3school style*/
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+}
+
+#contact-us-image {
+    height: 600px;
+    width: 500px;
+}
+
 
 
 
