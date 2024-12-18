@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=Gruppo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=Italiana&display=swap');
 
 /*CSS variables*/
 :root {
 --primary-font: "Gilda display", sans-serif;
---secondary-font:"Gruppo",  sans-serif;
+--secondary-font:"Italiana",  sans-serif;
+--primary-color:#e7dcca;
+--secondary-color: #494931; 
 }
 
 /* Global styles */
@@ -32,10 +34,6 @@ h4 {
 }
 
 /*Subscription form*/
-#sign-up-form {
-    background-color: lightgray;
-}
-
 #newsletter {
     display: flex;
     justify-content: center;
@@ -43,12 +41,12 @@ h4 {
     padding-top: 10px;
 }
 
-#sign-up {
+#subscribe{
     padding: 10px;
     margin: 10px;
 }
 
-.sign-up-button {
+.subscribe-button {
     display: flex;
     justify-content: center;
     padding-top: 10px;
@@ -106,9 +104,10 @@ padding: 15px 0;
 display: flex;
 justify-content: space-evenly;
 list-style-type: none;
+background-color: var(--secondary-color);
 }
 
 #social-medias i {
-    color: black;
+    color: #ffff;
 }
 
