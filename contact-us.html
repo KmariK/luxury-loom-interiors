@@ -16,7 +16,7 @@
 <body class="d-flex flex-column min-vh-100">
     <!--Navigation (Bootstrap)-->
     <nav id="navbar" class="navbar navbar-expand-lg">
-        <div class="container">
+        <div class="container" >
           <a class="navbar-brand" id="logo" href="index.html">Luxury Loom Interiors</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -40,13 +40,14 @@
         </div>
       </nav>
       
-      <main id="contact-us-page">
+      <header id="contact-us-page">
       <h1>Contact us</h1>
       <h4>Let us bring your vision to life!</h4>
       <p>Whether you're ready to transform your space or just have a question about our services, 
         our team is here to help.</p>
-      </main>
+      </header>
       
+      <main class="contact-us">
       <form>
         <div id="contact-us-form" class="row">
           <div class="col-md-4">
@@ -62,10 +63,49 @@
           <textarea class="form-control" id="message"></textarea>
         </div>
       </form>
+      <img id="contact-us-image" src="assets/images/contact-us-page-image-1.jpg" alt="...">
+      </main>
+  
+      <section id="contact-opening-section">
+     <!--Contact info-->
+      <div>
 
-      <section>
-        <img id="contact-us-image" src="assets/images/contact-us-page-image-1.jpg" alt="...">
-      </section>
+      </div>
+      <!--Bootstrap tabel-->
+      <!--Opening times tabel-->
+      <div class=" col-12 col-md-6 col-xl-4">
+        <h4>Opening times</h4>
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Day</th>
+              <th scope="col">Open</th>
+              <th scope="col">Close</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Monday - Friday</td>
+              <td>10:00</td>
+              <td>18:30</td>
+            </tr>
+            <tr>
+              <td>Saturday</td>
+              <td>11:00</td>
+              <td>18:00</td>
+            </tr>
+            <tr>
+              <td>Sunday</td>
+              <td>Closed</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+        
+        <!--Google Map-->
+        <iframe src="" title="description"></iframe>
+    
 
 
 
