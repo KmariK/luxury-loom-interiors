@@ -71,32 +71,41 @@ h4 {
 
 
 /*Contact us*/
-#contact-us-page p,
-h4 {
-text-align: center;
-}
-
 #contact-us {
     background-color: var(--primary-color);
-
 }
+
+#contact-us h5, 
+p {
+    text-align: center;
+    margin-top: 1rem;
+    padding: 5px;
+}
+
 #contact-us-form {
   /*this is a W3school style*/
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
-  text-align: center;
   display: inline-block;
 }
 
 #contact-us-image {
     height: 600px;
     width: 500px;
-    margin-top: 1rem;
-
+    margin-top: 2rem;
 }
 
-/*Contact info & Opening times section*/
+#contact-info h5, 
+p {
+    text-align: center;
+    margin-top: 1rem;
+    padding: 5px;
+}
+
+
+
+/*Opening & Closing times section*/
 
 
 
