@@ -33,16 +33,64 @@ h4 {
     font-family: var(--secondary-font);
 }
 
-#cover-text {
+#cover-text-1 {
     background-color: transparent;
     font-size: 150%;
     position: absolute;
-    bottom: 50px;
     width: 80%;
+    bottom: 30px;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 900;
 }
+
+#cover-text-2 {
+    background-color: transparent;
+    font-size: 150%;
+    position: absolute;
+    width: 80%;
+    bottom: 30px;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 900;
+}
+
+#cover-text-3 {
+    background-color: transparent;
+    font-size: 150%;
+    position: absolute;
+    width: 80%;
+    bottom: 30px;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 900;
+}
+
+#cover-text-4 {
+    background-color: transparent;
+    font-size: 150%;
+    position: absolute;
+    width: 80%;
+    bottom: 30px;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 900;
+}
+
+
+
 
 /*Subscription form*/
 #newsletter {
@@ -55,6 +103,10 @@ h4 {
 #subscribe{
     padding: 10px;
     margin: 10px;
+}
+
+#subscription-form h2 {
+    font-weight: 250;
 }
 
 .subscribe-button {
