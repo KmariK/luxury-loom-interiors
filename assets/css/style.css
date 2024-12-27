@@ -16,6 +16,7 @@ body {
 
 #logo {
     font-family: var(--secondary-font);
+    font-size: 2rem;
 }
 
 h1,
@@ -29,13 +30,28 @@ h4 {
     font-weight: bold;
 }
 
+p {
+    padding: 0 20px;
+}
+
 #logo {
     font-family: var(--secondary-font);
 }
 
+#navbar {
+padding-top: 10px;
+padding-bottom: 5px;
+background-color: #ffff;
+}
+
+.navbar-nav {
+    color: black;
+    
+}
+
 #cover-text-1 {
     background-color: transparent;
-    font-size: 150%;
+    font-size: 200%;
     position: absolute;
     width: 80%;
     bottom: 30px;
@@ -49,7 +65,7 @@ h4 {
 
 #cover-text-2 {
     background-color: transparent;
-    font-size: 150%;
+    font-size: 200%;
     position: absolute;
     width: 80%;
     bottom: 30px;
@@ -63,7 +79,7 @@ h4 {
 
 #cover-text-3 {
     background-color: transparent;
-    font-size: 150%;
+    font-size: 200%;
     position: absolute;
     width: 80%;
     bottom: 30px;
@@ -77,7 +93,7 @@ h4 {
 
 #cover-text-4 {
     background-color: transparent;
-    font-size: 150%;
+    font-size: 200%;
     position: absolute;
     width: 80%;
     bottom: 30px;
@@ -118,19 +134,39 @@ h4 {
 /*About us page*/
 #about-us-page h4 {
     text-align: left;
+    padding: 0 20px;
+}
+
+#about-us-page p {
+    margin-bottom: 20px;
 }
 
 /*Founder image*/
+#founders {
+    background-color: var(--primary-color);
+}
+
 #founder-image {
     height: 450px;
     width: 450px;
+    padding: 20px;
+    margin: 15px;
 }
 
-/*Co-founder image*/
+/*Co Founder image*/
 #co-founder-image {
     height: 450px;
     width: 450px;
+    padding: 20px;
+    margin: 15px;
+    
 }
+
+#founders p {
+    text-align: center;
+    line-height: 7px;
+}
+
 
 
 /*Contact us*/
