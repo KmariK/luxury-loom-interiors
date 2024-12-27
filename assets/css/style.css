@@ -133,20 +133,23 @@ background-color: #ffff;
 
 
 /*About us page*/
+#about-us-page {
+    background-color: var(--primary-color);
+}
 #about-us-page h4 {
     text-align: left;
     padding: 0 20px;
+    font-size: 200%;
+    text-align: center;
 }
 
 #about-us-page p {
     margin-bottom: 20px;
+    white-space: pre-line;
+    text-align: center;
 }
 
 /*Founder image*/
-#founders {
-    background-color: var(--primary-color);
-}
-
 #founder-image {
     height: 450px;
     width: 500px;
@@ -205,6 +208,13 @@ background-color: #ffff;
     text-align: center;
     margin-top: 1rem;
     padding: 5px;
+}
+
+#contact-us h4 {
+    font-size: 110%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #contact-us-form {
