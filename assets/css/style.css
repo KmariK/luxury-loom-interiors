@@ -131,6 +131,7 @@ background-color: #ffff;
     padding-top: 10px;
 }
 
+
 /*About us page*/
 #about-us-page h4 {
     text-align: left;
@@ -170,6 +171,10 @@ background-color: #ffff;
 
 
 /*Contact us*/
+#contact-us-page {
+ text-align: center;
+}
+
 #contact-us {
     background-color: var(--primary-color);
     text-align: center;
@@ -198,16 +203,11 @@ background-color: #ffff;
     padding: 5px;
 }
 
-
-
-/*Opening & Closing times section*/
-
-
-
-
-
-
-
+/*Enquiry form*/
+#enquiry-button {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
 
 
 
