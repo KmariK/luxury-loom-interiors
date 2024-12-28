@@ -172,29 +172,38 @@ background-color: #ffff;
 }
 
 /*Projects page*/
+#project-images p {
+    line-height: 5px
+}
+
 #project-1 {
     height: 400px;
     width: 500px;
+    padding-bottom: 15px;
 }
 
 #project-2 {
     height: 400px;
     width: 500px;
+    padding-bottom: 15px;
 }
 
 #project-3 {
     height: 450px;
     width: 500px;
+    padding-bottom: 15px;
 }
 
 #project-4 {
     height: 400px;
     width: 500px;
+    padding-bottom: 15px;
 }
 
 #project-5 {
     height: 500px;
     width: 500px;
+    padding-bottom: 15px;
 }
 
 
