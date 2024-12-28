@@ -172,6 +172,12 @@ background-color: #ffff;
 }
 
 /*Projects page*/
+#project-images {
+    text-align: center;
+    flex-basis:120px;
+    align-self:center;
+}
+
 #project-images p {
     line-height: 5px
 }
@@ -179,6 +185,7 @@ background-color: #ffff;
 #project-1 {
     height: 400px;
     width: 500px;
+    padding-top: 10px;
     padding-bottom: 15px;
 }
 
