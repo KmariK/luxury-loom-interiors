@@ -61,6 +61,7 @@ background-color: #ffff;
     display: flex;
     flex-wrap: wrap;
     font-weight: 900;
+    color: rgb(34,34,34)
 }
 
 #cover-text-2 {
@@ -75,6 +76,7 @@ background-color: #ffff;
     display: flex;
     flex-wrap: wrap;
     font-weight: 900;
+    color: rgb(34,34,34)
 }
 
 #cover-text-3 {
@@ -89,6 +91,7 @@ background-color: #ffff;
     display: flex;
     flex-wrap: wrap;
     font-weight: 900;
+    color: rgb(34,34,34)
 }
 
 #cover-text-4 {
@@ -103,6 +106,7 @@ background-color: #ffff;
     display: flex;
     flex-wrap: wrap;
     font-weight: 900;
+    color: rgb(34,34,34)
 }
 
 
