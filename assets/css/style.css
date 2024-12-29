@@ -83,7 +83,7 @@ background-color: #ffff;
 }
 #about-us-page h4 {
     text-align: left;
-    padding: 0 20px;
+    padding-top: 10px;
     font-size: 200%;
     text-align: center;
 }
@@ -117,16 +117,11 @@ background-color: #ffff;
 }
 
 /*Projects page*/
-#project-images {
+#project-page {
     background-color: var(--primary-color);
 }
 #project-images p {
     line-height: 5px
-}
-/*W3 School CSS style*/
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
 }
 
 #project-1 {
@@ -214,8 +209,6 @@ background-color: #ffff;
 }
 
 
-
-
 /*Footer*/
 #social-medias {
 text-align: center;
@@ -231,3 +224,64 @@ background-color: var(--secondary-color);
 }
 
 /*Media Queries*/
+
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    
+    /*Projects page*/
+    #project-images {
+        flex-basis: 120px;
+        text-align: center;
+        align-self: center;
+    }
+
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /*Home page*/
+    /*Subscription form*/
+    #subscribe-form {
+        margin-top: 10px;
+        padding-top: 100px;
+        padding-bottom: 55px;
+    }
+
+    /*Contact us page*/
+    /*image*/
+    #contact-us-image {
+        padding-top: 5px;
+        padding-left: 10px;
+        height:450px;
+        width: 400px;
+    }
+
+    #contact-us-form {
+        /*EDIT THE BACKGROUND COLOUR ON TABLET*/
+        background-color: var(--primary-color);
+    }
+
+    /*Footer*/
+    #social-medias {
+        margin-bottom: auto;
+    }
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    /*Project page*/
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+     /*Contact us page*/
+    /*image*/
+    #contact-us-image {
+        height: 600px;
+        width: 600px;
+        margin-top: 2rem;  
+    }
+}
+
+
