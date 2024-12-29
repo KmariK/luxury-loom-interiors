@@ -49,69 +49,6 @@ background-color: #ffff;
     
 }
 
-#cover-text-1 {
-    background-color: transparent;
-    font-size: 200%;
-    position: absolute;
-    width: 80%;
-    bottom: 30px;
-    min-height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
-    display: flex;
-    flex-wrap: wrap;
-    font-weight: 900;
-    color: rgb(34,34,34)
-}
-
-#cover-text-2 {
-    background-color: transparent;
-    font-size: 200%;
-    position: absolute;
-    width: 80%;
-    bottom: 30px;
-    min-height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
-    display: flex;
-    flex-wrap: wrap;
-    font-weight: 900;
-    color: rgb(34,34,34)
-}
-
-#cover-text-3 {
-    background-color: transparent;
-    font-size: 200%;
-    position: absolute;
-    width: 80%;
-    bottom: 30px;
-    min-height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
-    display: flex;
-    flex-wrap: wrap;
-    font-weight: 900;
-    color: rgb(34,34,34)
-}
-
-#cover-text-4 {
-    background-color: transparent;
-    font-size: 200%;
-    position: absolute;
-    width: 80%;
-    bottom: 30px;
-    min-height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
-    display: flex;
-    flex-wrap: wrap;
-    font-weight: 900;
-    color: rgb(34,34,34)
-}
-
-
-
-
 /*Subscription form*/
 #newsletter {
     display: flex;
@@ -127,6 +64,10 @@ background-color: #ffff;
 
 #subscription-form h2 {
     font-weight: 250;
+}
+
+#subscribe-form p {
+    text-align: center;
 }
 
 .subscribe-button {
@@ -177,46 +118,54 @@ background-color: #ffff;
 
 /*Projects page*/
 #project-images {
-    text-align: center;
-    flex-basis:120px;
-    align-self:center;
+    background-color: var(--primary-color);
 }
-
 #project-images p {
     line-height: 5px
+}
+/*W3 School CSS style*/
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
 }
 
 #project-1 {
     height: 400px;
     width: 500px;
     padding-top: 10px;
-    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px
 }
 
 #project-2 {
     height: 400px;
     width: 500px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px
 }
 
 #project-3 {
     height: 450px;
     width: 500px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 15px
 }
 
 #project-4 {
     height: 400px;
     width: 500px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px
 }
 
 #project-5 {
     height: 500px;
     width: 500px;
+    padding-top: 10px;
+    padding-left: 10px;
     padding-bottom: 15px;
 }
-
 
 /*Contact us*/
 #contact-us-page {
@@ -281,3 +230,4 @@ background-color: var(--secondary-color);
     color: #ffff;
 }
 
+/*Media Queries*/
