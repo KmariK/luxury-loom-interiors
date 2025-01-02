@@ -255,10 +255,11 @@ background-color: var(--secondary-color);
         height:450px;
         width: 400px;
     }
-
-    #contact-us-form {
-        /*EDIT THE BACKGROUND COLOUR ON TABLET*/
-        background-color: var(--primary-color);
+    
+    
+    iframe {
+        width: 400px;
+        height: 450px;
     }
 
     /*Footer*/
