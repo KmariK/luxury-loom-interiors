@@ -225,6 +225,72 @@ background-color: var(--secondary-color);
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
+    /*Home page*/
+    #logo {
+        font-size: 150%;
+    }
+
+   #carousel slide {
+    width: 1367px;
+        height: 2048px;
+   }
+
+   /*Subscription form*/
+   #newsletter {
+   padding-top: 15px;
+   }
+    
+   /*ASK IF THIS CAN BE TARGETED*/
+   .col-md-4 {
+    padding-bottom: 10;
+    padding-bottom: 15px;
+   }
+
+   .subscribe-button {
+    margin-top: 10px;
+   }
+
+    /*About us page*/
+   #about-us-page h4 {
+    font-size: 150%;
+   } 
+
+   #about-us-page p {
+    font-size: 85%;
+   }
+
+   /*Contact us page*/
+   #contact-us-image {
+    width: 450px;
+    height: 400px;
+    padding-bottom: 5px;
+   }
+
+   #contact-us h4 {
+    font-size: 125%;
+   }
+
+   iframe {
+    width: 450px;
+    height: 400px ;
+   }
+
+   #opening-times h4 {
+    text-align: center;
+    font-size: 160%;
+   }
+
+
+
+
+   /*Footer*/
+  #social-medias { 
+    padding-bottom: 1px ;
+  }
+    
+   footer {
+    background-color: var(--secondary-color);
+   }
     
     /*Projects page*/
     #project-images {
@@ -241,7 +307,6 @@ background-color: var(--secondary-color);
     #logo {
         font-size: 180%;
     }
-
 
     /*Subscription form*/
     #subscribe-form {
