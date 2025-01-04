@@ -259,6 +259,13 @@ background-color: var(--secondary-color);
     font-size: 85%;
    }
 
+    /*Projects page*/
+    #project-images {
+        flex-basis: 120px;
+        text-align: center;
+        align-self: center;
+    }
+
    /*Contact us page*/
    #contact-us-image {
     width: 450px;
@@ -280,9 +287,6 @@ background-color: var(--secondary-color);
     font-size: 160%;
    }
 
-
-
-
    /*Footer*/
   #social-medias { 
     padding-bottom: 1px ;
@@ -292,12 +296,6 @@ background-color: var(--secondary-color);
     background-color: var(--secondary-color);
    }
     
-    /*Projects page*/
-    #project-images {
-        flex-basis: 120px;
-        text-align: center;
-        align-self: center;
-    }
 
 }
 
@@ -328,6 +326,10 @@ background-color: var(--secondary-color);
     /*Contact us page*/
     #contact-us-page {
     padding-top:auto;
+    }
+   
+    #contact-us-page h4 {
+        font-size: 110%;
     }
 
     /*image*/
