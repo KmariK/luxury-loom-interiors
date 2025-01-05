@@ -222,6 +222,67 @@ background-color: var(--secondary-color);
 }
 
 /*Media Queries*/
+/* Media query: phones (576px and up) */
+@media screen and (min-width: 320px) {
+/*Home page*/
+    #logo{
+    font-size: 110%;
+}
+
+/*Subscription form*/
+#newsletter h2 {
+font-size: 50%;
+}
+
+#subscribe-form p {
+    font-size: 75%;
+}
+
+.col-md-4 {
+    padding-bottom: 5px;
+    padding-bottom: 10px;
+   }
+
+   /*About us page*/
+   #about-us-page h4 {
+    font-size: 120%;
+   }
+   
+   #about-us-page p {
+    font-size: 75%;
+   }
+
+   #founder-image {
+    width:300px ;
+    height:300px;
+   }
+  
+   #co-founder-image {
+    width:300px ;
+    height:300px;
+   }
+  
+   /*Projects page*/
+   #project-page img {
+    width: 300px;
+    height: 300px;
+    padding-left: 10px;
+   }
+
+   #project-page p{
+    text-align: center;
+    font-size: 75%;
+   }
+
+   /*Contact us page*/
+   
+
+/*Footer*/
+footer {
+    background-color: var(--secondary-color);
+   }
+}
+
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
@@ -242,7 +303,7 @@ background-color: var(--secondary-color);
     
    /*ASK IF THIS CAN BE TARGETED*/
    .col-md-4 {
-    padding-bottom: 10;
+    padding-bottom: 10px;
     padding-bottom: 15px;
    }
 
