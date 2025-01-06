@@ -443,7 +443,23 @@ footer {
     .grid-container {
         display: grid;
         grid-template-columns: auto auto;
+        
     }
+    
+    #project-images img {
+    width: 450px;
+    height: 450px;
+    }
+    
+    
+    /*About us page*/
+    #founders img {
+        width:500px ;
+        height:500px;
+    }
+
+
+   
 
      /*Contact us page*/
     /*image*/
