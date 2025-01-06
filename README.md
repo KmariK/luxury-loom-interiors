@@ -1,50 +1,41 @@
 # Luxury-Loom-Interiors
 
-## UX
-1. 
-2. 
-3. 
+## Project Goals
+1. User Goals
+2. Site Owner Goals
 
-### Project Goals 
-1. 
-2. 
-3. 
+### User Experience
+1. Target Audience
+2. User Requirments and Expectations
+3. User Storied
 
-### Player Goals 
-1. 
-2. 
-3. 
+### Design
+1. Design Choiuces
+2. Colour
+3. Fonts
+4. Structure
+5. Wireframes
 
-### Parental Goals 
+### Technologies Used
+1. Languages 
+2. Frameworks & Tools
 
-### Developer and Business Goals 
+### Features
 
-### User Stories 
+### Testing
+1. HTML Validation
+2. CSS Validation
+3. Accessibility
+4. Performance 
+5. Device testing
+6. Browser compatibility
+7. Testing user stories
 
-### Design Choices 
+### Bugs
 
-### Wireframes 
-
-## Features 
-
-### Exsisting Features 
-
-### Features left to implement 
-
-## Technologies used 
-
-## Testing 
-
-## Deployment 
-
-### How to run this project locally 
+### Deployment
 
 ## Credits 
 
-### Content 
+### Acknowledgements
 
-### Media 
-
-### Code 
-
-### Acknowledgements 
