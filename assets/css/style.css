@@ -206,10 +206,11 @@ background-color: #ffff;
     padding-bottom: 5px;
 }
 
-/*404 Page #error img {
-    width: 450px;
-    height: 450px;
-}*/
+/*404 Page*/
+#error img {
+    width:450 ;
+    height:450;
+}
 
 #error p {
     font-size: 150px;
@@ -298,8 +299,14 @@ font-size: 50%;
     text-align: center;
    }
 
-/*Footer*/
-footer {
+   /*404 page*/
+   #error img {
+    width: 350px;
+    height: 350px;
+   }
+
+  /*Footer*/
+   footer {
     background-color: var(--secondary-color);
    }
 }
@@ -321,7 +328,6 @@ footer {
    #newsletter {
    padding-top: 15px;
    }
-    
 
    .subscribe-button {
     margin-top: 10px;
@@ -458,9 +464,6 @@ footer {
         width:500px ;
         height:500px;
     }
-
-
-   
 
      /*Contact us page*/
     /*image*/
