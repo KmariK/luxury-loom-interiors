@@ -53,14 +53,31 @@
 
 ### Design
 1. Design Choices
+The webpage was designed to the a luxury, mordern and minimalist approach to the customer. It is clear and sleek and gives the customer a insight of a highly professional and seamless experience they will get if they work with the business.
+
 2. Colour
+For the colour scheme neutral tones were chosen to match the images on the page. I chose the colours by inserting the images used in my project to the ['Image Color Picker](https://imagecolorpicker.com/) website and searched for there HEX Code. The two colours I chose are #e9eceb for the body and #494931; for the footer. 
 3. Fonts
+The two main fonts are Gilda display which is the primary font with a fallback of sans-serif and Italiana which is the secondary font with a fall back of sans-serif. 
 4. Structure
+The page is structures in a easy, user friendly way. When the customers arrive on the website they are immediately welcomes with a logo of the left side and a familiar type of navigation bar to the right. The website consists of five pages:
+1. A homepage with a section to subscribe to the newsletter
+2. A about page with a descriptive insight of what the company is about and what it has to offer and a image of the founder and co founder
+3. A project page presenting the projects carried out by the company demonstrating to the customer their expertise and commitment to excellence
+4. A contact page with a image of the company's interior design work, a contact form, a address and contact number and a google map so customers can find the showcase studio
 5. Wireframes
+- Home 
+- About us 
+- Projects 
+- Contact us 
 
 ### Technologies Used
 1. Languages 
+- HTML
+- CSS
+
 2. Frameworks & Tools
+- Bootstrap v5.05
 
 ### Features
 
