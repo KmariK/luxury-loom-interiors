@@ -206,6 +206,17 @@ background-color: #ffff;
     padding-bottom: 5px;
 }
 
+/*404 Page #error img {
+    width: 450px;
+    height: 450px;
+}*/
+
+#error p {
+    font-size: 150px;
+    padding-top: 10px;
+    text-align: center;
+}
+
 /*Footer*/
 #social-medias {
 text-align: center;
@@ -236,11 +247,6 @@ font-size: 50%;
 #subscribe-form p {
     font-size: 75%;
 }
-
-.col-md-4 {
-    padding-bottom: 5px;
-    padding-bottom: 10px;
-   }
 
    /*About us page*/
    #about-us-page h4 {
@@ -316,11 +322,6 @@ footer {
    padding-top: 15px;
    }
     
-   /*ASK IF THIS CAN BE TARGETED*/
-   .col-md-4 {
-    padding-bottom: 10px;
-    padding-bottom: 15px;
-   }
 
    .subscribe-button {
     margin-top: 10px;
