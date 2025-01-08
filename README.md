@@ -56,11 +56,11 @@
 The webpage was designed to the a luxury, mordern and minimalist approach to the customer. It is clear and sleek and gives the customer a insight of a highly professional and seamless experience they will get if they work with the business.
 
 - Colour
-For the colour scheme neutral tones were chosen to match the images on the page. I chose the colours by inserting the images used in my project to the ['Image Color Picker](https://imagecolorpicker.com/) website and searched for there HEX Code. The two colours I chose are #e9eceb for the body and #494931; for the footer. 
+For the colour scheme neutral tones were chosen to match the images on the page. I chose the colours by inserting the images used in my project to the ['Image Color Picker](https://imagecolorpicker.com/) website and searched for there HEX Code. The two colours I chose are #e9eceb for the body and #494931; for the footer *same paragraph*.
 - Fonts
-The two main fonts are Gilda display which is the primary font with a fallback of sans-serif and Italiana which is the secondary font with a fall back of sans-serif. 
+The two main fonts are Gilda display which is the primary font with a fallback of sans-serif and Italiana which is the secondary font with a fall back of sans-serif *same paragraph*.
 - Structure
-The page is structures in a easy, user friendly way. When the customers arrive on the website they are immediately welcomes with a logo of the left side and a familiar type of navigation bar to the right. The website consists of five pages:
+The page is structures in a easy, user friendly way. When the customers arrive on the website they are immediately welcomes with a logo of the left side and a familiar type of navigation bar to the right. The website consists of five pages *same paragraph*:
 1. A homepage with a section to subscribe to the newsletter
 2. A about page with a descriptive insight of what the company is about and what it has to offer and a image of the founder and co founder
 3. A project page presenting the projects carried out by the company demonstrating to the customer their expertise and commitment to excellence
