@@ -99,7 +99,30 @@ The page consists of four pages and eight features.
 - Featured on all four pages 
 - The navbar is responsive and changes to a toggler on smaller screens (320px and up and 576px and up to 992px), it includes link to the Homepage, About us page, Projects page and Contact us page
 - It allows users to easily navigate the page 
- ! [Logo and nabar](logo-and-navbar.png)
+ 
+ 2. Carousel
+ - Presents to the user of the companys expertise showcasing its previous interior design work
+ - Gives optioss for the user to navigate the slideshow back and fourth via the arrows
+
+ 3. Footer
+ - Featured on all four pages 
+ - Consits of four social media links (Facebook, Twitter, Youtube and Instagram)
+
+ 4. About us 
+ - Gives a detail description of what 'Luxury Loom Interiors' company has to offer 
+ - Includes two images of the founder and co founder of the company
+
+5. Projects 
+- Presents to the user the project outcomes that the company have done for its clients within the United Kingdom with a small description of the location of each project
+
+6. Contact Form
+- A way for the user to send written enquiries to the company
+
+7. Map
+- Shows the precise location of the showcase studio
+
+8. Info section 
+- Provides the user with a phone number, email and address
 
 ### Testing
 1. HTML Validation
