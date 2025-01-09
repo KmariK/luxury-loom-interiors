@@ -99,7 +99,7 @@ The page consists of four pages and eight features.
 - Featured on all four pages 
 - The navbar is responsive and changes to a toggler on smaller screens (320px and up and 576px and up to 992px), it includes link to the Homepage, About us page, Projects page and Contact us page
 - It allows users to easily navigate the page 
-[Logo and nabar](logo-and-navbar.png)
+ ! [Logo and nabar](logo-and-navbar.png)
 
 ### Testing
 1. HTML Validation
@@ -118,3 +118,6 @@ The page consists of four pages and eight features.
 
 ### Acknowledgements
 
+
+
+[def]: logo-and-navbar.png
