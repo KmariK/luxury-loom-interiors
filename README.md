@@ -68,11 +68,11 @@ The page is structures in a easy, user friendly way. When the customers arrive o
 3. A project page presenting the projects carried out by the company demonstrating to the customer their expertise and commitment to excellence
 4. A contact page with a image of the company's interior design work, a contact form, a address and contact number and a google map so customers can find the showcase studio
 
-5. Wireframes
-- Home 
-- About us 
-- Projects 
-- Contact us 
+- Wireframes
+1. Home 
+2. About us 
+3. Projects 
+4. Contact us 
 
 ### Technologies Used
 1. Languages 
@@ -89,6 +89,8 @@ The page is structures in a easy, user friendly way. When the customers arrive o
 - Google Fonts
 - Image Color Picker 
 - Font Awesome
+- Pexels
+- Unsplash
 
 ### Features
 The page consists of five pages and eight features (refer to notes on phone to see what they are)
