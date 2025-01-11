@@ -111,6 +111,12 @@ background-color: #ffff;
     
 }
 
+#founders h3 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+
 #founders p {
     text-align: center;
     line-height: 7px;

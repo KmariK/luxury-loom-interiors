@@ -126,6 +126,7 @@ The page consists of four pages and eight features.
 
 ### Testing
 1. HTML Validation
+- The W£S Markup Validation Service was used to validate the HTLM of the website
 2. CSS Validation
 3. Accessibility
 4. Performance 
