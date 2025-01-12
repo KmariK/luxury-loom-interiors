@@ -160,6 +160,17 @@ iv) Contact us page
 ### Deployment
 
 ### Credits 
+1. Media 
+In order of appearance:
+- Carousel images 1-4: Photo by Spacejoy on Unsplash
+- Carousel image 3:go by Medhat Ayad on Pexels
+- Founder and Co-founder image: from Pexels
+- Project images: by Spacejoy on Pexels
+- Contact us image: by Wilcle Nunes on Pexels
+
+2. Code
+In order of appearance 
+- The HTML 
 
 ### Acknowledgements
 
