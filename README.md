@@ -126,10 +126,30 @@ The page consists of four pages and eight features.
 
 ### Testing
 1. HTML Validation
-- The W£S Markup Validation Service was used to validate the HTLM of the website
+- The W3S Markup Validation Service was used to validate the HTLM of the website
+
+i) Home page
+
+ii) About us page 
+
+iii) Projects page 
+
+iv) Contact us page
+
 2. CSS Validation
 - The W3C CSS Validator was used to validate the the CSS of the website.
 3. Accessibility
+- The WAVE WebAIM web accessibility evaluation tool was used to ensure the website fulfillled high accessibility. Across all pages it passed with ..
+
+i) Home page
+
+ii) About us page 
+
+iii) Projects page 
+
+iv) Contact us page
+
+
 4. Performance 
 5. Device testing
 6. Browser compatibility
