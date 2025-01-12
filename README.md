@@ -128,6 +128,7 @@ The page consists of four pages and eight features.
 1. HTML Validation
 - The W£S Markup Validation Service was used to validate the HTLM of the website
 2. CSS Validation
+- The W3C CSS Validator was used to validate the the CSS of the website.
 3. Accessibility
 4. Performance 
 5. Device testing
