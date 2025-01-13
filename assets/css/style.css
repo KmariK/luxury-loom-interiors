@@ -427,6 +427,12 @@ font-size: 50%;
     }
 
     /*Contact us page*/
+    #contact-us, 
+    #contact-info {
+     display: flex;
+     justify-content: center;
+    }
+
     #contact-us-page h4 {
         font-size: 110%;
     }
@@ -478,7 +484,6 @@ font-size: 50%;
     .grid-container {
         display: grid;
         grid-template-columns: auto auto;
-        
     }
     
     #project-images img {
@@ -502,7 +507,7 @@ font-size: 50%;
     }
 
     iframe {
-        width: 600px;
+        width: 500px;
         height: 500px;
     }
 }
