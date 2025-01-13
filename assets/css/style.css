@@ -201,9 +201,12 @@ background-color: #ffff;
 }
 
 #contact-info{
-    text-align: center;
     margin-top: 1rem;
-    padding: 5px;
+   text-align: center;
+   /*Stack Overflow style*/
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 /*Enquiry form*/
@@ -501,9 +504,10 @@ font-size: 50%;
      /*Contact us page*/
     /*image*/
     #contact-us-image {
-        height: 600px;
-        width: 600px;
+        height: 500px;
+        width: 500px;
         margin-top: 2rem;  
+        padding-left: 10px;
     }
 
     iframe {

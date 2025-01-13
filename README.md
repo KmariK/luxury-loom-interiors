@@ -69,7 +69,7 @@ The page is structures in a easy, user friendly way. When the customers arrive o
 4. A contact page with a image of the company's interior design work, a contact form, a address and contact number and a google map so customers can find the showcase studio
 
 - Wireframes
-1. Home 
+1. Home
 2. About us 
 3. Projects 
 4. Contact us 
@@ -152,8 +152,16 @@ iv) Contact us page
 
 4. Performance 
 5. Device testing
-6. Browser compatibility
-7. Testing user stories
+6. Device compatibility
+The website was tested on the following devices:
+- Chromebook Plus 14a
+- Iphone 12pro Max 
+7. Browser compatibility
+The website was tested on the following browsers:
+- Google Chrome
+- Microsoft Edge 
+
+8. Testing user stories
 
 ### Bugs
 
