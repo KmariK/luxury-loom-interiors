@@ -98,34 +98,41 @@ The page is structures in a easy, user friendly way. When the customers arrive o
 ### Features
 The page consists of four pages and eight features. 
 
-1. Logo and Navigation Bar
+<details><summary>Logo and Navigation Bar</summary><img src="docs/features/logo-and-navbar.png"></details>
+
 - Featured on all four pages 
 - The navbar is responsive and changes to a toggler on smaller screens (320px and up and 576px and up to 992px), it includes link to the Homepage, About us page, Projects page and Contact us page
 - It allows users to easily navigate the page 
-! [Logo and navbar] (docs/features/logo-and-navbar.png) 
  
- 2. Carousel
+ <details><summary>Carousel</summary><img src="docs/features/carousel.png"></details> 
+
  - Presents to the user of the companys expertise showcasing its previous interior design work
  - Gives optioss for the user to navigate the slideshow back and fourth via the arrows
 
- 3. Footer
+  <details><summary>Footer</summary><img src="docs/features/footer.png"></details>
+
  - Featured on all four pages 
  - Consits of four social media links (Facebook, Twitter, Youtube and Instagram)
 
- 4. About us 
+<details><summary>About us</summary><img src="docs/features/about-us.png"></details>
+ 
  - Gives a detail description of what 'Luxury Loom Interiors' company has to offer 
  - Includes two images of the founder and co founder of the company
 
-5. Projects 
+<details><summary>Projects</summary><img src="docs/features/projects.png"></details>
+
 - Presents to the user the project outcomes that the company have done for its clients within the United Kingdom with a small description of the location of each project
 
-6. Contact Form
+<details><summary>Contact Form</summary><img src="docs/features/contact-form.png"></details>
+
 - A way for the user to send written enquiries to the company
 
-7. Map
+<details><summary>Map</summary><img src="docs/features/map.png"></details>
+
 - Shows the precise location of the showcase studio
 
-8. Info section 
+<details><summary>Info section</summary><img src="docs/features/info-box.png"></details>
+
 - Provides the user with a phone number, email and address
 
 ### Testing
@@ -152,7 +159,6 @@ ii) About us page
 iii) Projects page 
 
 iv) Contact us page
-
 
 4. Performance 
 5. Device testing
