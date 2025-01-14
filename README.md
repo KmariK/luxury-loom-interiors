@@ -191,7 +191,8 @@ In order of appearance
 - The HTML 
 
 ### Acknowledgements
+I would like to take the opportunity to thank: 
 
+- My mentor Mo Shami, for his support and guidance during the project insuring I meet the deadline successfully. 
+- To my newfound virtual friends on the Code Insitute Slack for their support and help. 
 
-
-[def]: logo-and-navbar.png
