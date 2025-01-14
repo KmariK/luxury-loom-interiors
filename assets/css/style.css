@@ -270,11 +270,15 @@ font-size: 50%;
    }
   
    /*Projects page*/
-   #project-page img {
+   
+   #project-images {
     width: 300px;
     height: 300px;
-    padding-left: 10px;
-   }
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
    #project-page p{
     text-align: center;
@@ -353,7 +357,9 @@ font-size: 50%;
     #project-images {
         flex-basis: 120px;
         text-align: center;
-        align-self: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
    /*Contact us page*/
