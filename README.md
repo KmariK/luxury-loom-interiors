@@ -1,4 +1,4 @@
-# Luxury-Loom-Interiors
+# Luxury Loom Interiors
 
 ## Project Goals
 
