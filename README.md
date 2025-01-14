@@ -69,10 +69,13 @@ The page is structures in a easy, user friendly way. When the customers arrive o
 4. A contact page with a image of the company's interior design work, a contact form, a address and contact number and a google map so customers can find the showcase studio
 
 - Wireframes
-1. Home
-2. About us 
-3. Projects 
-4. Contact us 
+
+<details><summary>Home</summary><img src="docs/wireframe/home-page-wireframe.png"></details>
+<details><summary>About us</summary>
+<img src="docs/wireframe/about-us-page-wireframe.png"></details>
+<details><summary>Projects</summary>
+<img src="docs/wireframe/project-page-wireframe.png"></details>
+<details><summary>Contact us</summary><img src="docs/wireframe/contct-us-page.png"></details>
 
 ### Technologies Used
 1. Languages 
@@ -99,6 +102,7 @@ The page consists of four pages and eight features.
 - Featured on all four pages 
 - The navbar is responsive and changes to a toggler on smaller screens (320px and up and 576px and up to 992px), it includes link to the Homepage, About us page, Projects page and Contact us page
 - It allows users to easily navigate the page 
+! [Logo and navbar] (docs/features/logo-and-navbar.png) 
  
  2. Carousel
  - Presents to the user of the companys expertise showcasing its previous interior design work
