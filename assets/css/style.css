@@ -127,7 +127,8 @@ background-color: #ffff;
     background-color: var(--primary-color);
 }
 #project-images p {
-    line-height: 5px
+    line-height: 5px; 
+    text-align: center;
 }
 
 #project-1 {
@@ -270,16 +271,7 @@ font-size: 50%;
    }
   
    /*Projects page*/
-   
-   #project-images {
-    width: 300px;
-    height: 300px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
+  
    #project-page p{
     text-align: center;
     font-size: 75%;
@@ -353,15 +345,6 @@ font-size: 50%;
     font-size: 85%;
    }
 
-    /*Projects page*/
-    #project-images {
-        flex-basis: 120px;
-        text-align: center;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
    /*Contact us page*/
    #contact-us-image {
     width: 450px;
@@ -403,8 +386,6 @@ font-size: 50%;
    footer {
     background-color: var(--secondary-color);
    }
-    
-
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -485,17 +466,12 @@ font-size: 50%;
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
+    
     /*Project page*/
     .grid-container {
         display: grid;
         grid-template-columns: auto auto;
     }
-    
-    #project-images img {
-    width: 450px;
-    height: 450px;
-    }
-    
     
     /*About us page*/
     #founders img {
@@ -524,6 +500,4 @@ font-size: 50%;
         width: 500px;
         height: 500px;
     }
-}
-
-
+    }
