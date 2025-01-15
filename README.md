@@ -211,7 +211,7 @@ Go to the Github repository
 In order of appearance:
 - Carousel images 1, 2 and 4: Photo by Spacejoy on [Unsplash](https://unsplash.com/@spacejoy)
 - Carousel image 3: by Medhat Ayad on [Pexels](https://www.pexels.com/photo/3d-model-3ds-max-arcviz-bath-towels-543798/)
-- Founder image: by Emmy E [Pexels](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/from)
+- Founder image: by Emmy E [Pexels](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/)
 - Co founder image: by Alina Matveycheva [Pexels](https://www.pexels.com/photo/woman-standing-in-white-suit-jacket-25985701/)
 - Project images: by Spacejoy on [Unsplash](https://unsplash.com/@spacejoy) 
 - Contact us image: by Wilcle Nunes on [Pexels](https://www.pexels.com/photo/decor-in-luxurious-apartment-27059631/)
