@@ -126,7 +126,7 @@ background-color: #ffff;
 #project-page {
     background-color: var(--primary-color);
 }
-#project-images p {
+#project-page p {
     line-height: 5px; 
     text-align: center;
 }
@@ -456,8 +456,8 @@ font-size: 50%;
     #contact-us-image {
         padding-top: 5px;
         padding-left: 10px;
-        height:450px;
-        width: 400px;
+        height:350px;
+        width: 300px;
     }
 
     #contact-us-form {
@@ -494,7 +494,12 @@ font-size: 50%;
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) {    
+    /*About us page*/
+    #founders img {
+        width:500px ;
+        height:500px;
+    }
     
     /*Project page*/
     .grid-container {
@@ -502,21 +507,12 @@ font-size: 50%;
         grid-template-columns: auto auto;
     }
 
-    #project-page p {
-        text-align: center;
-    }
-    
-    /*About us page*/
-    #founders img {
-        width:500px ;
-        height:500px;
-    }
 
-     /*Contact us page*/
+    /*Contact us page*/
     /*image*/
     #contact-us-image {
-        height: 500px;
-        width: 500px;
+        height: 600px;
+        width: 600px;
         margin-top: 2rem;  
         padding-left: 10px;
     }
