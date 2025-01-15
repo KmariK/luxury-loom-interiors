@@ -56,7 +56,7 @@
 The webpage was designed to the a luxury, mordern and minimalist approach to the customer. It is clear and sleek and gives the customer a insight of a highly professional and seamless experience they will get if they work with the business.
 
 - Colour:
-For the colour scheme neutral tones were chosen to match the images on the page. I chose the colours by inserting the images used in my project to the ['Image Color Picker](https://imagecolorpicker.com/) website and searched for there HEX Code. The two colours I chose are #e9eceb for the body and #494931; for the footer.
+For the colour scheme neutral tones were chosen to match the images on the page. I chose the colours by inserting the images used in my project to the [Image Color Picker](https://imagecolorpicker.com/) website and searched for there HEX Code. The two colours I chose are #e9eceb for the body and #494931; for the footer.
 
 - Fonts:
 The two main fonts are Gilda display which is the primary font with a fallback of sans-serif and Italiana which is the secondary font with a fall back of sans-serif.
@@ -209,11 +209,13 @@ Go to the Github repository
 ### Credits 
 1. Media 
 In order of appearance:
-- Carousel images 1-4: Photo by Spacejoy on Unsplash
-- Carousel image 3:go by Medhat Ayad on Pexels
-- Founder and Co-founder image: from Pexels
-- Project images: by Spacejoy on Pexels
-- Contact us image: by Wilcle Nunes on Pexels
+- Carousel images 1, 2 and 4: Photo by Spacejoy on [Unsplash](https://unsplash.com/@spacejoy)
+- Carousel image 3: by Medhat Ayad on [Pexels](https://www.pexels.com/photo/3d-model-3ds-max-arcviz-bath-towels-543798/)
+- Founder image: by Emmy E [Pexels](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/from)
+- Co founder image: by Alina Matveycheva [Pexels](https://www.pexels.com/photo/woman-standing-in-white-suit-jacket-25985701/)
+- Project images: by Spacejoy on [Unsplash](https://unsplash.com/@spacejoy) 
+- Contact us image: by Wilcle Nunes on [Pexels](https://www.pexels.com/photo/decor-in-luxurious-apartment-27059631/)
+- 404 error image: on Freepik [Freepik](https://www.freepik.com/free-vector/error-404-concept-landing-page_8794579.htm#fromView=keyword&page=1&position=38&uuid=2e18e1a6-3a97-492a-8ee2-60789fc2387d)
 
 2. Code
 In order of appearance 
