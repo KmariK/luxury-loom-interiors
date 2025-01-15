@@ -176,6 +176,35 @@ The website was tested on the following browsers:
 ### Bugs
 
 ### Deployment
+ The website was deployed using GitHub Pages by following these steps:
+
+ 1. In the GitHub repository select the 'Settings' tab
+ 2. On the left side select 'Pages'
+ 3. Under 'Build and deployment (source)' select the drop down box then select 'Deploy from a branch'
+ 3. Under 'Branch' select 'main' beside 'main' you will see a folder icon select it and then select '/root'
+ 4. After the webpage automatically refreshes, you'll see at the top 'Your site is life at https://kmarik.github.io/luxury-loom-interiors/
+
+ ! NO FORK ON MY REPO !
+
+ You can clone the repository via Github desktop by following these steps: 
+
+1. Go to the Github repository
+Select the '<> Code' drop down button then copy the URL
+2. Select 'File' on the desktop then select 'Clone repository'
+3. Click 'URL' and paste the URL
+4. Then select 'Clone'
+
+
+
+
+
+Go to the Github repository
+2. Select the '<> Code' drop down button
+3. Select if you prefer to clone using HTTPS, SSH or GitHub CLI then copy the URL to your clipboard
+4. Open Git Bash 
+5. 
+
+
 
 ### Credits 
 1. Media 

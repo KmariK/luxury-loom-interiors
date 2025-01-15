@@ -126,10 +126,7 @@ background-color: #ffff;
 #project-page {
     background-color: var(--primary-color);
 }
-#project-page img {
-    width: 500px;
-    height: 500px;
-}
+
 
 #project-page p {
     line-height: 5px; 
@@ -456,6 +453,13 @@ font-size: 50%;
         padding-right: 0px;
     }
 
+    #contact-info {
+        /*Stack Overflow style*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+        
     iframe {
         width: 350px;
         height: 450px;
@@ -499,6 +503,11 @@ font-size: 50%;
         grid-template-columns: auto auto;
     }
 
+    #project-page img {
+    width: 500px;
+    height: 500px;
+}
+
 
     /*Contact us page*/
     /*image*/
@@ -514,7 +523,6 @@ font-size: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-   
     }
 
     iframe {
