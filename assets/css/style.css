@@ -126,44 +126,39 @@ background-color: #ffff;
 #project-page {
     background-color: var(--primary-color);
 }
+#project-page img {
+    width: 500px;
+    height: 500px;
+}
+
 #project-page p {
     line-height: 5px; 
     text-align: center;
 }
 
 #project-1 {
-    height: 400px;
-    width: 500px;
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 15px
 }
 
 #project-2 {
-    height: 300px;
-    width: 400px;
     padding-top: 10px;
     padding-bottom: 15px
 }
 
 #project-3 {
-    height: 350px;
-    width: 400px;
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 15px
 }
 
 #project-4 {
-    height: 300px;
-    width: 400px;
     padding-top: 10px;
     padding-bottom: 15px
 }
 
 #project-5 {
-    height: 300px;
-    width: 400px;
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 15px;
@@ -274,11 +269,8 @@ font-size: 50%;
   #project-page img {
     width: 300px;
     height: 300px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    }
     
-  }
    #project-page p{
     text-align: center;
     font-size: 75%;
@@ -526,7 +518,7 @@ font-size: 50%;
     }
 
     iframe {
-        width: 500px;
-        height: 500px;
+        width: 600px;
+        height: 600px;
     }
     }
