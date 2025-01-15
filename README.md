@@ -2,8 +2,6 @@
 
 ## Project Goals
 
-### LOL
-
 1. User Goals
 - Finding out what the buisness has to offer.
 - See projects that the buisness have done.
