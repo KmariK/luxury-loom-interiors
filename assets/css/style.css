@@ -315,9 +315,6 @@ font-size: 50%;
   #project-page img {
     width: 450px;
     height: 450px;
-    flex-basis: 120px;
-    justify-content: center;
-    align-items: center;
   }
 
    /*Contact us page*/
@@ -391,13 +388,6 @@ font-size: 50%;
   #project-page img {
     width: 600px;
     height: 600px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  #project-page p {
-   text-align: center;
   }
 
     /*Contact us page*/
