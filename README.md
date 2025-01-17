@@ -71,19 +71,21 @@
 2. As a first time user, I want to know what services the business has to offer.
 3. As a first time user, I want to get a feel of business will elevate my space. 
 4. As a first time user, I want to know how best to contact the company.
+5. As a first time user, I want a clear explanation that the page I'm looking for cannot be found.
 
 #### Returning User
-1. As a returning user, I want to see the companys latest project.
-2. As a returning user, I want to know if there is a new service.
-3. As a returning user, I want to know if there is any new offers.
-4. As a returning user, I want to know if the contact details are the same of have changed.
-5. As a returning user, I want to know who founded the company. 
-6. As a returning user, I want to get directions to the companys showroom studio 
+6. As a returning user, I want to see the companys latest project.
+7. As a returning user, I want to know if there is a new service.
+8. As a returning user, I want to know if there is any new offers.
+9. As a returning user, I want to know if the contact details are the same of have changed.
+10. As a returning user, I want to know who founded the company. 
+11. As a returning user, I want to get directions to the companys showroom studio 
+12. As a returning user, I want the 404 page to include a quick way to navigate to the pages on the website. 
 
 #### Site Owner
-1. As the site owner, I want users to find news about offers, latest trends and expert tips.
-2. As the site owner, I want users to get to know the business and how it evolved.
-3. As the site owner, I want users to be able to contact us via a form,email, telephone or our showcase studio location.
+13. As the site owner, I want users to find news about offers, latest trends and expert tips.
+14. As the site owner, I want users to get to know the business and how it evolved.
+15. As the site owner, I want users to be able to contact us via a form,email, telephone or our showcase studio location.
 
 
 ### Design
@@ -188,6 +190,10 @@ The page consists of four pages and eight features.
 
 <details><summary>Contact page</summary><img src="docs/validation/contact-us-page-validator-1.png">Fixed:
 <img src="docs/validation/contact-us-page-validator-2.png">
+</details>
+
+<details><summary>404 page</summary><img src="docs/validation/404-validation-1.png">Fixed:
+<img src="docs/validation/404-validation-2.png">
 </details>
 
 #### CSS Validation
