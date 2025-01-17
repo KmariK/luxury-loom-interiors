@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [Project Goals](#project-goals) 
 - [User Goals](#user-goals)
-- [Site Ownder Goals](#site-owner-goals) 
+- [Site Owner Goals](#site-owner-goals) 
 2. [User Experience](#user-experience) 
 - [Target Audience](#target-audience) 
 - [User Requirments and Expectations](#user-requirments-and-expectations)
@@ -77,7 +77,7 @@
 6. As a returning user, I want to see the companys latest project.
 7. As a returning user, I want to know if there is a new service.
 8. As a returning user, I want to know if there is any new offers.
-9. As a returning user, I want to know if the contact details are the same of have changed.
+9. As a returning user, I want to know if the contact details are the same or have changed.
 10. As a returning user, I want to know who founded the company. 
 11. As a returning user, I want to get directions to the companys showroom studio 
 12. As a returning user, I want the 404 page to include a quick way to navigate to the pages on the website. 
@@ -131,9 +131,10 @@ The page is structured in a easy, user friendly way. When the customers arrive o
 - Font Awesome
 - Pexels
 - Unsplash
+- Favicon.io
 
 ### Features
-The page consists of four pages and eight features. 
+The page consists of four pages and nine features. 
 
 <details><summary>Logo and Navigation Bar</summary><img src="docs/features/logo-and-navbar.png"></details>
 
@@ -145,7 +146,14 @@ The page consists of four pages and eight features.
 
  - Presents to the user of the companys expertise showcasing its previous interior design work
  - Gives optioss for the user to navigate the slideshow back and fourth via the arrows
+ - User stories covered: 3
 
+<details><summary>Subscription form</summary><img src="docs/features/subscription-form.png"></details>
+
+- Allows customers to sign up to the newsletter to for latest updates and deals
+- User stories covered: 7, 8 and 13
+
+ 
   <details><summary>Footer</summary><img src="docs/features/footer.png"></details>
 
  - Featured on all four pages 
@@ -155,22 +163,32 @@ The page consists of four pages and eight features.
  
  - Gives a detail description of what 'Luxury Loom Interiors' company has to offer 
  - Includes two images of the founder and co founder of the company
+ - User stories covered: 2, 3, 14 
 
 <details><summary>Projects</summary><img src="docs/features/projects.png"></details>
 
 - Presents to the user the project outcomes that the company have done for its clients within the United Kingdom with a small description of the location of each project
+- User stories covered: 3, 6, 
 
 <details><summary>Contact Form</summary><img src="docs/features/contact-form.png"></details>
 
 - A way for the user to send written enquiries to the company
+- User stories covered: 4 and 15
 
 <details><summary>Map</summary><img src="docs/features/map.png"></details>
 
 - Shows the precise location of the showcase studio
+- User stories covered: 11 and 15
 
 <details><summary>Info section</summary><img src="docs/features/info-box.png"></details>
 
 - Provides the user with a phone number, email and address
+- User stories covered: 1, 4, 9, 15
+
+<details><summary>404 page</summary><img src="docs/features/404.png"></details>
+
+- Provides a clear and visible message that the page is not found
+- Use stories covered: 12
 
 ### Testing
 #### HTML Validation
