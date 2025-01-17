@@ -243,7 +243,7 @@ iv) Contact us page
 
 <details><summary>Contact us page</summary><img src="docs/performance/contact-page-performance.png"></details>
 
-<details><summary>404 page</summary><img src="docs/performance/404-page-performance.png"></details>
+<details><summary>404 page</summary><img src="docs/performance/404-image-performance.png"></details>
 
 
 ### Device testing
