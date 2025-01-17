@@ -175,18 +175,18 @@ The page consists of four pages and eight features.
 - The W3S Markup Validation Service was used to validate the HTLM of the website
 
 
-<details><summary>Home page</summary><img src="docs/validation/index-html -validator-1 .png">
+<details><summary>Home page</summary><img src="docs/validation/index-html -validator-1 .png">Fixed:
 <img src="docs/validation/index-html-validator-2.png"></details>
 
-<details><summary>About us page</summary><img src="docs/validation/about-us-html-validator-1.png">
+<details><summary>About us page</summary><img src="docs/validation/about-us-html-validator-1.png">Fixed:
 <img src="docs/validation/about-us-html-validator-2.png">
 </details>
 
-<details><summary>Project page</summary><img src="docs/validation/project-page-validator-1.png">
+<details><summary>Project page</summary><img src="docs/validation/project-page-validator-1.png">Fixed:
 <img src="docs/validation/project-page-validator-2.png">
 </details>
 
-<details><summary>Contact page</summary><img src="docs/validation/contact-us-page-validator-1.png">
+<details><summary>Contact page</summary><img src="docs/validation/contact-us-page-validator-1.png">Fixed:
 <img src="docs/validation/contact-us-page-validator-2.png">
 </details>
 
@@ -209,6 +209,17 @@ iii) Projects page
 iv) Contact us page
 
 #### Performance 
+<details><summary>Home page</summary><img src="docs/performance/Home-page-performance.png"></details>
+
+<details><summary>About us page</summary><img src="docs/performance/project-page-performance.png"></
+</details>
+
+<details><summary>Project page</summary><img src="docs/performance/project-page-performance.png"></
+</details>
+
+<details><summary>Contact us page </summary><img src="docs/performance/contact-us-page-performance.png"></
+</details>
+
 #### Device testing
 #### Device compatibility
 The website was tested on the following devices:
@@ -274,4 +285,6 @@ I would like to take the opportunity to thank:
 
 - My mentor Mo Shami, for his support and guidance during the project insuring I meet the deadline successfully. 
 - To my newfound virtual friends on the Code Insitute Slack for their support and help. 
+
+
 
