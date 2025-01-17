@@ -174,16 +174,29 @@ The page consists of four pages and eight features.
 #### HTML Validation
 - The W3S Markup Validation Service was used to validate the HTLM of the website
 
-i) Home page
 
-ii) About us page 
+<details><summary>Home page</summary><img src="docs/validation/index-html -validator-1 .png">
+<img src="docs/validation/index-html-validator-2.png"></details>
 
-iii) Projects page 
+<details><summary>About us page</summary><img src="docs/validation/about-us-html-validator-1.png">
+<img src="docs/validation/about-us-html-validator-2.png">
+</details>
 
-iv) Contact us page
+<details><summary>Project page</summary><img src="docs/validation/project-page-validator-1.png">
+<img src="docs/validation/project-page-validator-2.png">
+</details>
+
+<details><summary>Contact page</summary><img src="docs/validation/contact-us-page-validator-1.png">
+<img src="docs/validation/contact-us-page-validator-2.png">
+</details>
 
 #### CSS Validation
 - The W3C CSS Validator was used to validate the the CSS of the website.
+
+<details><summary>CSS</summary><img src="docs/validation/CSS-validator-1.png">
+<img src="docs/validation/contact-us-page-validator-2.png"></
+</details>
+
 #### Accessibility
 - The WAVE WebAIM web accessibility evaluation tool was used to ensure the website fulfillled high accessibility. Across all pages it passed with ..
 
