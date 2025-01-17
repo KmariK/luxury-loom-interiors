@@ -111,7 +111,7 @@ The page is structured in a easy, user friendly way. When the customers arrive o
 <details><summary>About us</summary>
 <img src="docs/wireframe/about-us-page-wireframe.png"></details>
 <details><summary>Projects</summary>
-<img src="docs/wireframe/project-page-wireframe.png"></details>
+<img src="docs/wireframe/projects-page-wireframe.png"></details>
 <details><summary>Contact us</summary><img src="docs/wireframe/contct-us-page.png"></details>
 
 ### Technologies Used
@@ -188,7 +188,7 @@ The page consists of four pages and nine features.
 <details><summary>404 page</summary><img src="docs/features/404.png"></details>
 
 - Provides a clear and visible message that the page is not found
-- Use stories covered: 12
+- User stories covered: 12
 
 ### Testing
 #### HTML Validation
