@@ -234,13 +234,16 @@ iii) Projects page
 iv) Contact us page
 
 #### Performance 
-<details><summary>Home page</summary><img src="docs/performance/Home-page-performance.png"></details>
 
-<details><summary>About us page</summary><img src="docs/performance/project-page-performance.png"></details>
+<details><summary>Home page</summary><img src="docs/performance/home-page-performance.png"></details>
 
-<details><summary>Project page</summary><img src="docs/performance/project-page-performance.png"></details>
+<details><summary>About us page</summary><img src="docs/performance/about-us-page-performance.png"></details>
 
-<details><summary>Contact us page </summary><img src="docs/performance/contact-us-page-performance.png"></details>
+<details><summary>Project page</summary><img src="docs/performance/projects-page-performance.png"></details>
+
+<details><summary>Contact us page</summary><img src="docs/performance/contact-page-performance.png"></details>
+
+<details><summary>404 page</summary><img src="docs/performance/404-page-performance.png"></details>
 
 
 ### Device testing
