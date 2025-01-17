@@ -243,7 +243,18 @@ The website was tested on the following browsers:
  3. Under 'Branch' select 'main' beside 'main' you will see a folder icon select it and then select '/root'
  4. After the webpage automatically refreshes, you'll see at the top 'Your site is life at https://kmarik.github.io/luxury-loom-interiors/
 
- ! NO FORK ON MY REPO !
+ You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7.Press Enter to create your local clone.
 
  You can clone the repository via Github desktop by following these steps: 
 
