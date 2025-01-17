@@ -194,8 +194,9 @@ The page consists of four pages and eight features.
 - The W3C CSS Validator was used to validate the the CSS of the website.
 
 <details><summary>CSS</summary><img src="docs/validation/CSS-validator-1.png">
-<img src="docs/validation/contact-us-page-validator-2.png"></
-</details>
+<img src="docs/validation/contact-us-page-validator-2.png"></details>
+
+
 
 #### Accessibility
 - The WAVE WebAIM web accessibility evaluation tool was used to ensure the website fulfillled high accessibility. Across all pages it passed with ..
@@ -211,20 +212,19 @@ iv) Contact us page
 #### Performance 
 <details><summary>Home page</summary><img src="docs/performance/Home-page-performance.png"></details>
 
-<details><summary>About us page</summary><img src="docs/performance/project-page-performance.png"></
-</details>
+<details><summary>About us page</summary><img src="docs/performance/project-page-performance.png"></details>
 
-<details><summary>Project page</summary><img src="docs/performance/project-page-performance.png"></
-</details>
+<details><summary>Project page</summary><img src="docs/performance/project-page-performance.png"></details>
 
-<details><summary>Contact us page </summary><img src="docs/performance/contact-us-page-performance.png"></
-</details>
+<details><summary>Contact us page </summary><img src="docs/performance/contact-us-page-performance.png"></details>
+
 
 ### Device testing
 #### Device compatibility
 The website was tested on the following devices:
 - Chromebook Plus 14a
 - Iphone 12pro Max 
+- Iphone 15
 #### Browser compatibility
 The website was tested on the following browsers:
 - Google Chrome
