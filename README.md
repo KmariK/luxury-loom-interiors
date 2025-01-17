@@ -220,7 +220,7 @@ iv) Contact us page
 <details><summary>Contact us page </summary><img src="docs/performance/contact-us-page-performance.png"></
 </details>
 
-#### Device testing
+### Device testing
 #### Device compatibility
 The website was tested on the following devices:
 - Chromebook Plus 14a
@@ -252,10 +252,6 @@ Select the '<> Code' drop down button then copy the URL
 2. Select 'File' on the desktop then select 'Clone repository'
 3. Click 'URL' and paste the URL
 4. Then select 'Clone'
-
-
-
-
 
 Go to the Github repository
 2. Select the '<> Code' drop down button
