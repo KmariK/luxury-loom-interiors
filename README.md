@@ -1,14 +1,49 @@
 # Luxury Loom Interiors
 
-## Project Goals
+(Developer: Mariama Kamara)
 
-1. User Goals
+## Table of Contents
+1. [Project Goals](#project-goals) 
+- [User Goals](#user-goals)
+- [Site Ownder Goals](#site-owner-goals) 
+2. [User Experience](#user-experience) 
+- [Target Audience](#target-audience) 
+- [User Requirments and Expectations](#user-requirments-and-expectations)
+- [User Stories](#user-stories)
+3. [Design](#design)
+- [Design Choices](#design-choices)
+- [Colours](#colours) 
+- [Fonts](#fonts) 
+- [Structure](#structure) 
+- [Wireframes](#wireframes) 
+4. [Technologies Used](#technologies-used) 
+- [Languages](#languages)
+- [Frameworks and Tools](#frameworks--tools)
+5. [Features](#features)
+6. [Testing](#testing)
+- [HTML Validation](#html-validation)
+- [CSS Validation](#css-validation)
+- [Accessibility](#accessibility)
+- [Performance](#performance) 
+- [Device Testing](#device-testing) 
+- [Browser Compatibility](#browser-compatibility) 
+- [Testing User Stories](#testing-user-stories)
+7. [Bugs](#bugs)
+8. [Deployment](#deployment)
+9. [Credits](#credits) 
+10. [Acknowledgments](#acknowledgements) 
+
+
+
+### Project Goals
+
+#### User Goals
 - Finding out what the buisness has to offer.
 - See projects that the buisness have done.
 - Find information about the company. 
 -  Find the location of the buisness.
 
-2. Site Owner Goals
+#### Site Owner Goals
 - Increase client enquiries.
 - Promote the business. 
 - Showcase the buisness expertise. 
@@ -18,18 +53,18 @@
 
 ### User Experience
 
-1. Target Audience
+#### Target Audience
 - People looking for a interior deisgn buisness to elevate there space i.e home, office.
 - Investors aiming to add value to properties through luxury interior design.
 
-2. User Requirments and Expectations
+#### User Requirments and Expectations
 - A simple navigation system 
 - High quality protraying the buisness
 - Visually appealing design regargless of the screensize
 - Easy contact options
 - Accessibility
 
-3. User Stories
+#### User Stories:
 
 #### First-time User 
 1. As a first time user, I want to know where the business is located i.e country & city 
@@ -52,23 +87,23 @@
 
 
 ### Design
-- Design Choices:
+#### Design Choices:
 The webpage was designed to the a luxury, mordern and minimalist approach to the customer. It is clear and sleek and gives the customer a insight of a highly professional and seamless experience they will get if they work with the business.
 
-- Colour:
+#### Colours:
 For the colour scheme neutral tones were chosen to match the images on the page. I chose the colours by inserting the images used in my project to the [Image Color Picker](https://imagecolorpicker.com/) website and searched for there HEX Code. The two colours I chose are #e9eceb for the body and #494931; for the footer.
 
-- Fonts:
+#### Fonts:
 The two main fonts are Gilda display which is the primary font with a fallback of sans-serif and Italiana which is the secondary font with a fall back of sans-serif.
 
-- Structure:
+#### Structure:
 The page is structures in a easy, user friendly way. When the customers arrive on the website they are immediately welcomes with a logo of the left side and a familiar type of navigation bar to the right. The website consists of five pages:
 1. A homepage with a section to subscribe to the newsletter
 2. A about page with a descriptive insight of what the company is about and what it has to offer and a image of the founder and co founder
 3. A project page presenting the projects carried out by the company demonstrating to the customer their expertise and commitment to excellence
 4. A contact page with a image of the company's interior design work, a contact form, a address and contact number and a google map so customers can find the showcase studio
 
-- Wireframes
+#### Wireframes
 
 <details><summary>Home</summary><img src="docs/wireframe/home-page-wireframe.png"></details>
 <details><summary>About us</summary>
@@ -78,11 +113,11 @@ The page is structures in a easy, user friendly way. When the customers arrive o
 <details><summary>Contact us</summary><img src="docs/wireframe/contct-us-page.png"></details>
 
 ### Technologies Used
-1. Languages 
+#### Languages 
 - HTML
 - CSS
 
-2. Frameworks & Tools
+#### Frameworks & Tools
 - Bootstrap v5.05
 - Git 
 - GitHub
@@ -136,7 +171,7 @@ The page consists of four pages and eight features.
 - Provides the user with a phone number, email and address
 
 ### Testing
-1. HTML Validation
+#### HTML Validation
 - The W3S Markup Validation Service was used to validate the HTLM of the website
 
 i) Home page
@@ -147,9 +182,9 @@ iii) Projects page
 
 iv) Contact us page
 
-2. CSS Validation
+#### CSS Validation
 - The W3C CSS Validator was used to validate the the CSS of the website.
-3. Accessibility
+#### Accessibility
 - The WAVE WebAIM web accessibility evaluation tool was used to ensure the website fulfillled high accessibility. Across all pages it passed with ..
 
 i) Home page
@@ -160,18 +195,18 @@ iii) Projects page
 
 iv) Contact us page
 
-4. Performance 
-5. Device testing
-6. Device compatibility
+#### Performance 
+#### Device testing
+#### Device compatibility
 The website was tested on the following devices:
 - Chromebook Plus 14a
 - Iphone 12pro Max 
-7. Browser compatibility
+#### Browser compatibility
 The website was tested on the following browsers:
 - Google Chrome
 - Microsoft Edge 
 
-8. Testing user stories
+#### Testing user stories
 
 ### Bugs
 
@@ -207,7 +242,7 @@ Go to the Github repository
 
 
 ### Credits 
-1. Media 
+#### Media 
 In order of appearance:
 - Carousel images 1, 2 and 4: Photo by Spacejoy on [Unsplash](https://unsplash.com/@spacejoy)
 - Carousel image 3: by Medhat Ayad on [Pexels](https://www.pexels.com/photo/3d-model-3ds-max-arcviz-bath-towels-543798/)
@@ -217,7 +252,7 @@ In order of appearance:
 - Contact us image: by Wilcle Nunes on [Pexels](https://www.pexels.com/photo/decor-in-luxurious-apartment-27059631/)
 - 404 error image: on Freepik [Freepik](https://www.freepik.com/free-vector/error-404-concept-landing-page_8794579.htm#fromView=keyword&page=1&position=38&uuid=2e18e1a6-3a97-492a-8ee2-60789fc2387d)
 
-2. Code
+#### Code
 In order of appearance 
 - The HTML 
 
