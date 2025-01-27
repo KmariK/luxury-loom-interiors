@@ -134,58 +134,68 @@ The page is structured in a easy, user friendly way. When the customers arrive o
 - Favicon.io
 
 ### Features
-The page consists of four pages and nine features. 
+The page consists of four pages and ten features. 
 
-<details><summary>Logo and Navigation Bar</summary><img src="docs/features/logo-and-navbar.png"></details>
+1. Logo and Navigation Bar
+<img src="docs/features/logo-and-navbar.png">
 
 - Featured on all four pages 
 - The navbar is responsive and changes to a toggler on smaller screens (320px and up and 576px and up to 992px), it includes link to the Homepage, About us page, Projects page and Contact us page
 - It allows users to easily navigate the page 
  
- <details><summary>Carousel</summary><img src="docs/features/carousel.png"></details> 
+ 2. Carousel
+ <img src="docs/features/carousel.png">
 
  - Presents to the user of the companys expertise showcasing its previous interior design work
  - Gives optioss for the user to navigate the slideshow back and fourth via the arrows
  - User stories covered: 3
 
-<details><summary>Subscription form</summary><img src="docs/features/subscription-form.png"></details>
+3. Subscription form
+<img src="docs/features/subscription-form.png">
 
 - Allows customers to sign up to the newsletter to for latest updates and deals
 - User stories covered: 7, 8 and 13
 
  
-  <details><summary>Footer</summary><img src="docs/features/footer.png"></details>
+4. Footer
+<img src="docs/features/footer.png">
 
  - Featured on all four pages 
  - Consits of four social media links (Facebook, Twitter, Youtube and Instagram)
 
-<details><summary>About us</summary><img src="docs/features/about-us.png"></details>
+5. About us
+<img src="docs/features/about-us.png">
  
  - Gives a detail description of what 'Luxury Loom Interiors' company has to offer 
  - Includes two images of the founder and co founder of the company
  - User stories covered: 2, 3, 14 
 
-<details><summary>Projects</summary><img src="docs/features/projects.png"></details>
+6. Projects
+<img src="docs/features/projects.png">
 
 - Presents to the user the project outcomes that the company have done for its clients within the United Kingdom with a small description of the location of each project
 - User stories covered: 3, 6, 
 
-<details><summary>Contact Form</summary><img src="docs/features/contact-form.png"></details>
+7. Contact Form
+<img src="docs/features/contact-form.png">
 
 - A way for the user to send written enquiries to the company
 - User stories covered: 4 and 15
 
-<details><summary>Map</summary><img src="docs/features/map.png"></details>
+8. Map
+<img src="docs/features/map.png">
 
 - Shows the precise location of the showcase studio
 - User stories covered: 11 and 15
 
-<details><summary>Info section</summary><img src="docs/features/info-box.png"></details>
+9. Info section
+<img src="docs/features/info-box.png">
 
 - Provides the user with a phone number, email and address
 - User stories covered: 1, 4, 9, 15
 
-<details><summary>404 page</summary><img src="docs/features/404.png"></details>
+10. 404 page
+<img src="docs/features/404.png">
 
 - Provides a clear and visible message that the page is not found
 - User stories covered: 12
@@ -260,6 +270,12 @@ The website was tested on the following browsers:
 #### Testing user stories
 
 ### Bugs
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
+| The contact info section on Iphone screen size 468px was beside the map but wanted it above the map | Reduced the size on the map (iframe) to width and height 300px which automatically rearranged the map to be below the contact info section |
+| Footer on screen size 320 px and 576 px  was showing white space after the footer| Set footer colour to secondary colour |
+
 
 ### Deployment
  The website was deployed using GitHub Pages by following these steps:
