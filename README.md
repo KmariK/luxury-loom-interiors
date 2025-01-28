@@ -432,7 +432,12 @@ In order of appearance:
 
 #### Code
 In order of appearance 
-- The HTML 
+- The HTML for the responsive [Navbar with toggler](https://getbootstrap.com/docs/5.2/components/navbar/) was taken from the Bootstrap v5.2 documentation. 
+- [The Carousel](https://getbootstrap.com/docs/5.3/components/carousel/#how-it-works) on the home page was taken from Bootstrap v5.2 documentation. 
+- The [Images](https://getbootstrap.com/docs/4.0/content/images/) on the projects pages was taken from Bootstrap v5.2 documentation. 
+- The CSS code for the contact form on the contact page was taken from [W3 Schools](https://www.w3schools.com/css/css_inline-block.asp).
+- The CSS code for the contact info media query for screen sizes 768px and 992px was taken from [Stack overflow](https://stackoverflow.com/questions/48516538/flex-align-items-center-not-centering-items).
+
 
 ### Acknowledgements
 I would like to take the opportunity to thank: 
