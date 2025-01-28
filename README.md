@@ -235,15 +235,25 @@ The page consists of four pages and ten features.
 #### Accessibility
 - The WAVE WebAIM web accessibility evaluation tool was used to ensure the website fulfillled high accessibility. Across all pages it passed with ..
 
-i) Home page
+<details><summary>Home page</summary>
+<img src="docs/accessability/home-page-accessability.png">
+</details>
 
-ii) About us page 
+<details><summary>About us page</summary>
+<img src="docs/accessability/about-us-page-accessability.png">
+</details>
 
-iii) Projects page 
+<details><summary>Project page</summary>
+<img src="docs/accessability/projects-page-accessability.png">
+</details>
 
-iv) Contact us page
+<details><summary>Contact us page</summary>
+<img src="docs/accessability/contact-us-page-accessability.png">
+</details>
+
 
 #### Performance 
+- Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home page</summary><img src="docs/performance/home-page-performance.png"></details>
 
@@ -360,13 +370,6 @@ The website was tested on the following browsers:
 | Contact form | Nagivate to the Contact us page | Contact form requesting name, email and message| Works as expected |
 | Contact info |  Navigate to the Contact us page | Scroll down to the contact info section to see the phone number and address| Works as expected |
 | Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the show room studio| Works as expected |
-
-
-
-
-
-
-
 
 
 ### Bugs
