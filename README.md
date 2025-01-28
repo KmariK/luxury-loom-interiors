@@ -69,7 +69,7 @@
 #### First-time User 
 1. As a first time user, I want to know where the business is located i.e country & city. 
 2. As a first time user, I want to know what services the business has to offer.
-3. As a first time user, I want to get a feel of business will elevate my space. 
+3. As a first time user, I want to get a feel of how the business will elevate my space. 
 4. As a first time user, I want to know how best to contact the company.
 5. As a first time user, I want a clear explanation that the page I'm looking for cannot be found.
 
@@ -79,13 +79,13 @@
 8. As a returning user, I want to know if there is any new offers.
 9. As a returning user, I want to know if the contact details are the same or have changed.
 10. As a returning user, I want to know who founded the company. 
-11. As a returning user, I want to get directions to the companys showroom studio 
+11. As a returning user, I want to get directions to the companys showroom studio.
 12. As a returning user, I want the 404 page to include a quick way to navigate to the pages on the website. 
 
 #### Site Owner
 13. As the site owner, I want users to find news about offers, latest trends and expert tips.
 14. As the site owner, I want users to get to know the business and how it evolved.
-15. As the site owner, I want users to be able to contact us via a form,email, telephone or our showcase studio location.
+15. As the site owner, I want users to be able to contact us via a form, email, telephone or our showcase studio location.
 
 
 ### Design
@@ -268,8 +268,109 @@ The website was tested on the following browsers:
 - Microsoft Edge 
 
 #### Testing user stories
+1. As a first time user, I want to know where the business is located i.e country & city.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the show room studio| Works as expected |
+
+2. As a first time user, I want to know what services the business has to offer.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About us page |  Navigate to the About us page | Paragraphs on what the business is about and what it has to offer | Works as expected |
+
+3. As a first time user, I want to get a feel of how the business will elevate my space.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Projects page |  Navigate to the Projects page | See images of projects the business has done for its clients| Works as expected |
+| About us page | Nagivate to the About us page | Written information on how the company will elevate a potential clients space | Works as expected |
+
+4. As a first time user, I want to know how best to contact the company.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact info |  Navigate to the Contact us page | Scroll down to the contact info section to see the phone number and address| Works as expected |
+
+5. As a first time user, I want a clear explanation that the page I'm looking for cannot be found
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 error page|  Break the website link | A 404 error image and link to the website will be shown | Works as expected |
+
+6. As a returning user, I want to see the companys latest project.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Projects page |  Navigate to the Projects page | See images of projects the business has done for its clients| Works as expected |
+
+7. As a returning user, I want to know if there is a new service.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home page |  Navigate to the Home page then scroll down to the subcription form then subscribe | Once subscribed the customer will be updated if there is a new service | Works as expected |
+ 
+8. As a returning user, I want to know if there is any new offers.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home page |  Navigate to the Home page then scroll down to the subcription form then subscribe | Once subscribed the customer will be updated if there is a new offers | Works as expected |
+
+9. As a returning user, I want to know if the contact details are the same or have changed. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home page |  Navigate to the Home page then scroll down to the subcription form then subscribe | Once subscribed the customer will be updated if the contact details have changed | Works as expected |
+
+10. As a returning user, I want to know who founded the company.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About us page |  Navigate to the Home page and scroll down | Written information on who founded the company and images of founder & co founder | Works as expected |
+
+11. As a returning user, I want to get directions to the companys showroom studio. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the show room studio| Works as expected |
+
+12. As a returning user, I want the 404 page to include a quick way to navigate to the pages on the website.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Link | Click the link highlighted in blue | Direct back to the website | Works as expected |
+
+13. As the site owner, I want users to find news about offers, latest trends and expert tips.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home page |  Navigate to the Home page then scroll down to the subcription form then subscribe | Once subscribed the customer will be updated on offers, latest trends and expert tips | Works as expected |
+
+14. As the site owner, I want users to get to know the business and how it evolved. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About us page | Nagivate to the About us page | Written information on the company and how it evolved | Works as expected |
+
+15. As the site owner, I want users to be able to contact us via a form, email, telephone or our showcase studio location.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact form | Nagivate to the Contact us page | Contact form requesting name, email and message| Works as expected |
+| Contact info |  Navigate to the Contact us page | Scroll down to the contact info section to see the phone number and address| Works as expected |
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the show room studio| Works as expected |
+
+
+
+
+
+
+
+
 
 ### Bugs
+
 | **Bug** | **Fix** |
 | ----------- | ----------- |
 | Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
