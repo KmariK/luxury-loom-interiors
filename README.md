@@ -2,13 +2,15 @@
 
 (Developer: Mariama Kamara)
 
+[Live webpage](https://kmarik.github.io/luxury-loom-interiors/)
+
 ## Table of Contents
 1. [Project Goals](#project-goals) 
 - [User Goals](#user-goals)
 - [Site Owner Goals](#site-owner-goals) 
 2. [User Experience](#user-experience) 
 - [Target Audience](#target-audience) 
-- [User Requirments and Expectations](#user-requirments-and-expectations)
+- [User Requirements and Expectations](#user-requirments-and-expectations)
 - [User Stories](#user-stories)
 3. [Design](#design)
 - [Design Choices](#design-choices)
@@ -39,7 +41,7 @@
 
 #### User Goals
 - Finding out what the company has to offer.
-- See projects that the company have done.
+- See projects the company have done.
 - Find information about the company. 
 -  Find the location of the buisness.
 
@@ -48,8 +50,8 @@
 - Promote the business. 
 - Showcase the companys expertise. 
 - Provide luxury experience.
-- Provide a way for new clients and exsisting clidents to contact the business.
-- Provide infotamtion about the buisness to clients.
+- Provide a way for new clients and exsisting clients to contact the business.
+- Provide information about the buisness to clients.
 
 ### User Experience
 
@@ -60,7 +62,7 @@
 #### User Requirments and Expectations
 - A simple navigation system 
 - High quality protraying the buisness
-- Visually appealing design regargless of the screensize
+- Visually appealing design regardless of the screensize
 - Easy contact options
 - Accessibility
 
@@ -99,11 +101,11 @@ For the colour scheme neutral tones were chosen to match the images on the page.
 The two main fonts are Gilda display which is the primary font with a fallback of sans-serif and Italiana which is the secondary font with a fall back of sans-serif.
 
 #### Structure:
-The page is structured in a easy, user friendly way. When the customers arrive on the website they are immediately welcomed with a logo of the left side and a familiar type of navigation bar to the right. The website consists of five pages:
-1. A homepage with a section to subscribe to the newsletter
-2. A about us page with a descriptive insight of what the company is about and what it has to offer and a image of the founder and co founder
+The page is structured in a easy, user friendly way. When the customers arrive on the website they are immediately welcomed with a logo of the left side and a familiar type of navigation bar to the right. The website consists of four pages:
+1. A homepage with a carousel displaying the companys work and a section to subscribe to the newsletter
+2. A about us page with a descriptive insight of what the company is about and what it has to offer with a image of the founder and co founder
 3. A project page presenting the projects carried out by the company demonstrating to the customer their expertise and commitment to excellence
-4. A contact page with a image of the company's interior design work, a contact form, a address and contact number and a google map so customers can find the showcase studio
+4. A contact page with a image of the company's interior design work, a contact form, a address and contact number, a google map so customers can find the showcase studio and a opening times table below for the showcase studio.
 
 #### Wireframes
 
@@ -120,10 +122,9 @@ The page is structured in a easy, user friendly way. When the customers arrive o
 - CSS
 
 #### Frameworks & Tools
-- Bootstrap v5.05
+- Bootstrap v5.03
 - Git 
 - GitHub
-- Gitpod
 - Gidpod
 - Balsamiq
 - Google Fonts
@@ -140,14 +141,14 @@ The page consists of four pages and ten features.
 <img src="docs/features/logo-and-navbar.png">
 
 - Featured on all four pages 
-- The navbar is responsive and changes to a toggler on smaller screens (320px and up and 576px and up to 992px), it includes link to the Homepage, About us page, Projects page and Contact us page
+- The navbar is responsive and changes to a toggler on smaller screens (320px and up, 576px and up to 992px). It includes link to the Homepage, About us page, Projects page and Contact us page
 - It allows users to easily navigate the page 
  
  2. Carousel
  <img src="docs/features/carousel.png">
 
- - Presents to the user of the companys expertise showcasing its previous interior design work
- - Gives optioss for the user to navigate the slideshow back and fourth via the arrows
+ - Presents to the user the companys expertise showcasing its previous interior design work
+ - Gives options for the user to navigate the slideshow back and fourth via the arrows
  - User stories covered: 3
 
 3. Subscription form
@@ -162,6 +163,7 @@ The page consists of four pages and ten features.
 
  - Featured on all four pages 
  - Consits of four social media links (Facebook, Twitter, Youtube and Instagram)
+ - User stories covered: 6,7,8 and 9
 
 5. About us
 <img src="docs/features/about-us.png">
@@ -174,7 +176,7 @@ The page consists of four pages and ten features.
 <img src="docs/features/projects.png">
 
 - Presents to the user the project outcomes that the company have done for its clients within the United Kingdom with a small description of the location of each project
-- User stories covered: 3, 6, 
+- User stories covered: 3 and 6  
 
 7. Contact Form
 <img src="docs/features/contact-form.png">
@@ -202,7 +204,7 @@ The page consists of four pages and ten features.
 
 ### Testing
 #### HTML Validation
-- The W3S Markup Validation Service was used to validate the HTML of the website
+- The W3S Markup Validation Service was used to validate the HTML of the website showing the validation before and after once it has been fixed.
 
 
 <details><summary>Home page</summary><img src="docs/validation/index-html -validator-1 .png">Fixed:
@@ -294,14 +296,14 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Projects page |  Navigate to the Projects page | See images of projects the business has done for its clients| Works as expected |
 | About us page | Nagivate to the About us page | Written information on how the company will elevate a potential clients space | Works as expected |
+| Projects page |  Navigate to the Projects page | See images of projects the business has done for its clients| Works as expected |
 
 4. As a first time user, I want to know how best to contact the company.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact info |  Navigate to the Contact us page | Scroll down to the contact info section to see the phone number and address| Works as expected |
+| Contact info |  Navigate to the Contact us page | Scroll down to the contact info section to see the phone number, email and address| Works as expected |
 
 5. As a first time user, I want a clear explanation that the page I'm looking for cannot be found
 
@@ -325,7 +327,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Home page |  Navigate to the Home page then scroll down to the subcription form then subscribe | Once subscribed the customer will be updated if there is a new offers | Works as expected |
+| Home page |  Navigate to the Home page then scroll down to the subcription form then subscribe | Once subscribed the customer will be updated if there is new offers | Works as expected |
 
 9. As a returning user, I want to know if the contact details are the same or have changed. 
 
@@ -337,7 +339,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About us page |  Navigate to the Home page and scroll down | Written information on who founded the company and images of founder & co founder | Works as expected |
+| About us page |  Navigate to the About us page and scroll down | Written information on who founded the company and images of the founder & co founder | Works as expected |
 
 11. As a returning user, I want to get directions to the companys showroom studio. 
 
@@ -355,7 +357,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Home page |  Navigate to the Home page then scroll down to the subcription form then subscribe | Once subscribed the customer will be updated on offers, latest trends and expert tips | Works as expected |
+| Home page |  Navigate to the Home page then scroll down to the subscription form then subscribe | Once subscribed the customer will be updated on offers, latest trends and expert tips | Works as expected |
 
 14. As the site owner, I want users to get to know the business and how it evolved. 
 
@@ -369,7 +371,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Contact form | Nagivate to the Contact us page | Contact form requesting name, email and message| Works as expected |
 | Contact info |  Navigate to the Contact us page | Scroll down to the contact info section to see the phone number and address| Works as expected |
-| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the show room studio| Works as expected |
+| Map | Navigate to the Contact us page, locate the Google Map | Locating a map showing the location of the show room studio| Works as expected |
 
 
 ### Bugs
@@ -377,7 +379,7 @@ The website was tested on the following browsers:
 | **Bug** | **Fix** |
 | ----------- | ----------- |
 | Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
-| The contact info section on Iphone screen size 468px was beside the map but wanted it above the map | Reduced the size on the map (iframe) to width and height 300px which automatically rearranged the map to be below the contact info section |
+| The contact info section on Iphone screen size 468px was beside the map but I wanted it above the map | Reduced the size of the map (iframe) to width and height of 300px which automatically rearranged the map to be below the contact info section |
 | Footer on screen size 320 px and 576 px  was showing white space after the footer| Set footer colour to secondary colour |
 
 
@@ -411,13 +413,6 @@ Select the '<> Code' drop down button then copy the URL
 3. Click 'URL' and paste the URL
 4. Then select 'Clone'
 
-Go to the Github repository
-2. Select the '<> Code' drop down button
-3. Select if you prefer to clone using HTTPS, SSH or GitHub CLI then copy the URL to your clipboard
-4. Open Git Bash 
-5. 
-
-
 
 ### Credits 
 #### Media 
@@ -446,7 +441,7 @@ In order of appearance
 I would like to take the opportunity to thank: 
 
 - My mentor Mo Shami, for his support and guidance during the project insuring I meet the deadline successfully. 
-- To my newfound virtual friends on the Code Insitute Slack for their support and help. 
+- My newfound virtual friends on the Code Insitute Slack for their support and help. 
 
 
 
